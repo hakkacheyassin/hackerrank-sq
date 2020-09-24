@@ -1,0 +1,5 @@
+SELECT CAST(SUM(LAT_N) AS NUMERIC(7,2)), CAST(SUM(LONG_W) AS NUMERIC(7,2))
+FROM STATION
+
+
+/*  hakkache yassin */
